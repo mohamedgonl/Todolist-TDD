@@ -1,0 +1,1 @@
+enum TodoState { DONE, UNDONE, EXPIRED }
